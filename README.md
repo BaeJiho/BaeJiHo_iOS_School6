@@ -1,1 +1,2 @@
-# BaeJiHo_iOS_School6
+# 배지호(BaeJiHo) iOS_School6
+
