@@ -1,6 +1,7 @@
 # - Xcode 시작
 
-![xcode](/Users/baejiho/Desktop/BaeJiHo_iOS_School6/Class/18_01/18_01_10/1.png)
+<img width="797" alt="1" src="https://user-images.githubusercontent.com/35207193/34873132-44a93c04-f7d7-11e7-9967-a799d636876f.png">
+
 
 - Playground (간단한 소스 테스트)
 - Xcode project(모든 어플을 제작할때 쓰는 여러 템플릿이 존재)

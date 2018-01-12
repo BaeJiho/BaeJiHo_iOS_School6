@@ -60,7 +60,7 @@ View Controller 를 통해 앱을 실행시킨다.
 프로젝트에 포함된 파일의 변경사항을 추적할 수 있도록 돕는 방법론이나 도구.<br>
 아래의 이미지를 보며 알고리즘을 파악
 
-![github 알고리즘](/Users/baejiho/Desktop/BaeJiHo_iOS_School6/Class/18_01/18_01_09/스크린샷 2018-01-10 오후 6.39.45.png)
+<img width="1341" alt="2018-01-10 6 39 45" src="https://user-images.githubusercontent.com/35207193/34873105-28956830-f7d7-11e7-8053-bfeaffddacba.png">
 
 ---
 
