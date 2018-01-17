@@ -94,7 +94,7 @@ print(grade(of: 100))
 
 func yearDay(year: Int) {
     
-    if (year % 4 == 0) && (year % 100 == 0) && (year % 400 == 0){
+    if (year % 4 == 0) && (year % 100 == 0) && (year % 400 == 0) {
         print("윤년")
     }else if (year % 4 == 0) && (year % 100 == 0){
         print("윤년이 아니다.")
@@ -102,6 +102,10 @@ func yearDay(year: Int) {
         print("윤년")
     }
 }
-yearDay(year: 2016)
+yearDay(year: 2100)
 
+//년/월을 입력받아 해당 들의 마지막 날을 반환 해주는 함수(윤년 고려)
 
+func dayDay(year: Int, month: Int, day: Int) {
+    
+}
