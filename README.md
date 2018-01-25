@@ -37,5 +37,5 @@
 
 ### 3. Project
 - [1. Making a Calculator by Swift](./Project/18_01_12/README.md)
-- [2. Making a VisualBookManager](./Project/18_01_14/README.md)
-- [3. Making a baseball by Swift](./Project/18_01_21/README.md)
+- [2. Making a VisualBookManager](/Users/baejiho/Desktop/BaeJiHo_iOS_School6/Project/18_01_14/README.md)
+- [3. Making a baseball by Swift](/Users/baejiho/Desktop/BaeJiHo_iOS_School6/Project/18_01_21/README.md)
