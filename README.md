@@ -34,6 +34,7 @@
 - [9. Initialization](./Class/18_01/18_01_23/README.md)
 - [10. Algorithm](./Class/18_01/18_01_24/README.md)
 - [11. Optional](./Class/18_01/18_01_25/README.md)
+- [12. Private & Property](./Class/18_01/18_01_26/README.md)
 
 ### 3. Project
 - [1. Making a Calculator by Swift](./Project/18_01_12/README.md)
