@@ -23,18 +23,18 @@
 
 [2 WEEK]
 >
-- [4. var & func type](./Class/18_01/18_01_15/README.md)
-- [5. if & swich](./Class/18_01/18_01_16/README.md)
-- [6. for & while](./Class/18_01/18_01_18/README.md)
-- [7. collection type](./Class/18_01/18_01_19/README.md)
+- [1. var & func type](./Class/18_01/18_01_15/README.md)
+- [2. if & swich](./Class/18_01/18_01_16/README.md)
+- [3. for & while](./Class/18_01/18_01_18/README.md)
+- [4. collection type](./Class/18_01/18_01_19/README.md)
 
 [3 WEEK]
 >
-- [8. Class & Structures](./Class/18_01/18_01_22/README.md)
-- [9. Initialization](./Class/18_01/18_01_23/README.md)
-- [10. Algorithm](./Class/18_01/18_01_24/README.md)
-- [11. Optional](./Class/18_01/18_01_25/README.md)
-- [12. Private & Property](./Class/18_01/18_01_26/README.md)
+- [1. Class & Structures](./Class/18_01/18_01_22/README.md)
+- [2. Initialization](./Class/18_01/18_01_23/README.md)
+- [3. Algorithm](./Class/18_01/18_01_24/README.md)
+- [4. Optional](./Class/18_01/18_01_25/README.md)
+- [5. Private & Property](./Class/18_01/18_01_26/README.md)
 
 ### 3. Project
 - [1. Making a Calculator by Swift](./Project/18_01_12/README.md)
