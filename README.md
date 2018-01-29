@@ -29,14 +29,17 @@
 - [4. collection type](./Class/18_01/18_01_19/README.md)
 
 [3 WEEK]
->
-- [1. Class & Structures](./Class/18_01/18_01_22/README.md)
-- [2. Initialization](./Class/18_01/18_01_23/README.md)
-- [3. Algorithm](./Class/18_01/18_01_24/README.md)
-- [4. Optional](./Class/18_01/18_01_25/README.md)
-- [5. Private & Property](./Class/18_01/18_01_26/README.md)
-- [6. 복습](./Class/18_01/18_01_27/README.md)
-- [7. 복습2](./Class/18_01/18_01_28/README.md)
+> - [1. Class & Structures](./Class/18_01/18_01_22/README.md)
+> - [2. Initialization](./Class/18_01/18_01_23/README.md)
+> - [3. Algorithm](./Class/18_01/18_01_24/README.md)
+> - [4. Optional](./Class/18_01/18_01_25/README.md)
+> - [5. Private & Property](./Class/18_01/18_01_26/README.md)
+> - [6. 복습](./Class/18_01/18_01_27/README.md)
+> - [7. 복습2](./Class/18_01/18_01_28/README.md)
+
+
+[4 WEEK]
+> - [1. UIView](./Class/18_01/18_01_29/README.md)
 
 ### 3. Project
 - [1. Making a Calculator by Swift](./Project/18_01_12/README.md)
