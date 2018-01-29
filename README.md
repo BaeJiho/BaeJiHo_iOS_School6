@@ -10,23 +10,23 @@
 - Project
 
 ### 1. Bae Ji Ho
->
-- IOS Developer
-- Number : 010 - 2075 - 2628
+
+> - IOS Developer
+> - Number : 010 - 2075 - 2628
 
 ### 2. iOS_Study
 [1 WEEK]
->
-- [1. Swift & Git](./Class/18_01/18_01_09/README.md)
-- [2. Use of Xcode](./Class/18_01/18_01_10/README.md)
-- [3. OOP(Object Oriented Programming)](./Class/18_01/18_01_11/README.md)
+
+> - [1. Swift & Git](./Class/18_01/18_01_09/README.md)
+> - [2. Use of Xcode](./Class/18_01/18_01_10/README.md)
+> - [3. OOP(Object Oriented Programming)](./Class/18_01/18_01_11/README.md)
 
 [2 WEEK]
->
-- [1. var & func type](./Class/18_01/18_01_15/README.md)
-- [2. if & swich](./Class/18_01/18_01_16/README.md)
-- [3. for & while](./Class/18_01/18_01_18/README.md)
-- [4. collection type](./Class/18_01/18_01_19/README.md)
+
+> - [1. var & func type](./Class/18_01/18_01_15/README.md)
+> - [2. if & swich](./Class/18_01/18_01_16/README.md)
+> - [3. for & while](./Class/18_01/18_01_18/README.md)
+> - [4. collection type](./Class/18_01/18_01_19/README.md)
 
 [3 WEEK]
 > - [1. Class & Structures](./Class/18_01/18_01_22/README.md)
