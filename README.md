@@ -40,6 +40,7 @@
 
 [4 WEEK]
 > - [1. UIView](./Class/18_01/18_01_29/README.md)
+> - [2. UILabel & UIControl & UIButton](./Class/18_01/18_01_30/README.md)
 
 ### 3. Project
 - [1. Making a Calculator by Swift](./Project/18_01_12/README.md)
