@@ -34,23 +34,17 @@ class ViewController: UIViewController {
         let numberStr = sender.titleLabel!.text!
         //연산자 유무확인
         if operationTemp.count > 0 {
-//            let secondDisplay = secondNumDisplay.text
             if secondNum == "0"{
-//                secondNumDisplay.text = numberStr
                 secondNum = numberStr
             }else{
-//                secondNumDisplay.text = secondNumDisplay.text! + numberStr
                 secondNum = secondNum + numberStr
             }
             secondNumDisplay.text = secondNum
         }else{
-//            let firstDisplay = firstNumDisplay.text
             if firstNum == "0"{
-//                firstNumDisplay.text = numberStr
                 resetDisplay()
                 firstNum = numberStr
             }else{
-//                firstNumDisplay.text = firstNumDisplay.text! + numberStr
                 firstNum = firstNum + numberStr
             }
             firstNumDisplay.text = firstNum
