@@ -42,16 +42,16 @@
 > - [1. UIView](./Class/18_01/18_01_29/README.md)
 > - [2. UILabel & UIControl & UIButton](./Class/18_01/18_01_30/README.md)
 > - [3. UIKit framework 복습](./Class/18_01/18_01_31/README.md)
-> - [4. UIImage & UIButton](./Class/18_01/18_02_01/README.md)
-> - [5. 계층구조 & UIButton](./Class/18_01/18_02_02/README.md)
-> - [6. 복습](./Class/18_01/18_02_03)
-> - [7. 복습2](./Class/18_01/18_02_04/README.md)
+> - [4. UIImage & UIButton](./Class/18_02/18_02_01/README.md)
+> - [5. 계층구조 & UIButton](./Class/18_02/18_02_02/README.md)
+> - [6. 복습](./Class/18_02/18_02_03)
+> - [7. 복습2](./Class/18_02/18_02_04/README.md)
 
 [5 WEEK]
-> - [1. MVC & viewDidLoad 이전 상황을 알아보자](./Class/18_01/18_02_05/README.md)
-> - [2. Protocol](./Class/18_01/18_02_06/README.md)
-> - [3. UIViewController 만들기](./Class/18_01/18_02_08/README.md)
-> - [4. UINavigationController & UserDefult](./Class/18_01/18_02_09/README.md)
+> - [1. MVC & viewDidLoad 이전 상황을 알아보자](./Class/18_02/18_02_05/README.md)
+> - [2. Protocol](./Class/18_02/18_02_06/README.md)
+> - [3. UIViewController 만들기](./Class/18_02/18_02_08/README.md)
+> - [4. UINavigationController & UserDefult](./Class/18_02/18_02_09/README.md)
 
 [6 WEEK]
 
